@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-04-15T00:00:00
 
 title = "Recent Posts"
 subtitle = ""
@@ -14,7 +14,7 @@ weight = 40
 # Filter posts by tag.
 #  By default, show all recent posts.
 #  Filtering example: `tags_include = ["hugo", "academic"]`
-tags_include = []
+tags_include = ["machine learning", "anomaly detection", "algorithm", ""]
 tags_exclude = []
 
 # Number of posts to list.

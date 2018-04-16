@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "wenchieh.github.io" # "/"
+baseurl = "/"
 
 # Title of your site
-title = "Wenchieh Feng Personal Website"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-117539607-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -50,21 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Wenchieh Feng (冯文杰)"
+  name = "Lena Smith"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The Key Lab of Network Data Science and Technology", url = "http://www.bigdatalab.ac.cn/lab/lab/english" }, 
-                    { name = "Institute of Computing Techonogy, Chinese Academic of Science", url="www.ict.ac.cn"} ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "fengwenjie (AT) software.ict.ac.cn", "wenchiehfeng.us (AT) gmail.com"
-  address = "NO.6, KeXueYuan South Road, Haidian District, Beijing, P.R.China, 100190 "
-  office_hours = ""  # "Monday 10:00 to 13:00 or email for appointment"
-  phone = ""         # "888 888 88 88"
-  skype = "fwj4003"
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -106,7 +105,7 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = false
+  reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -116,7 +115,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -168,10 +167,10 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-  #  'Manuscript',  # 3
-  #  'Report',  # 4
-  #  'Book',  # 5
-  #  'Book section'  # 6
+    'Manuscript',  # 3
+    'Report',  # 4
+    'Book',  # 5
+    'Book section'  # 6
   ]
 
   # Configuration of talk pages.
@@ -218,17 +217,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:wenchiehfeng_us@gmail.com"
+    link = "mailto:test@example.org"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "twitter"
     icon_pack = "fa"
-    link = "//www.linkedin.com/in/wenjie-feng-2428b94b/" 
-
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
@@ -238,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/wenchieh/"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -255,33 +249,29 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "CV"
-  weight = 2
-
-[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
-# [[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 5
-
-# [[menu.main]]
-#   name = "Teaching"
-#   url = "#teaching"
-#   weight = 6
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5 #7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
