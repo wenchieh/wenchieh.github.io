@@ -1,7 +1,7 @@
 ---
 title: "EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation"
 collection: publications
-permalink: /publication/EAGLEMINE
+permalink: /publication/EIGENPULSE
 date: 2019-04-17
 venue: 'In Pacific-Asia Conference on Knowledge Discovery and Data Mining. (PAKDD) 2019'
 paperurl: 'http://wenchieh.github.io/files/pdf/eigenpulse.pdf'
