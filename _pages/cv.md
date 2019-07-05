@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://wenchieh.github.io/files/wenchieh_cv.pdf)    (Updated at July 2019).
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)    (Updated at July 2019).
 
 ---
 
