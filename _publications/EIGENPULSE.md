@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/EIGENPULSE
 date: 2019-04-17
 venue: 'In Pacific-Asia Conference on Knowledge Discovery and Data Mining. (PAKDD) 2019'
-paperurl: 'http://wenchieh.github.io/files/pdf/eigenpulse.pdf'
 citation: 'Zhang, J., Liu, S., Yu, W., Feng, W., & Cheng, X. (2019). &quot;EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation&quot;. <i>In Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham.</i> (pp. 501-513).'
 ---
 
