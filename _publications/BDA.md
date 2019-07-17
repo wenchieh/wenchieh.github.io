@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/BDA
 date: 2017-08-01
 venue: 'In 2017 IEEE International Conference on Data Mining. (ICDM)'
-paperurl: 'http://wenchieh.github.io/files/pdf/dba.pdf'
 citation: 'Wang, J., Chen, Y., Hao, S., Feng, W., & Shen, Z. (2017) &quot;Balanced distribution adaptation for transfer learning&quot;. <i> 2017 IEEE International Conference on Data Mining (ICDM). IEEE, 2017.</i> (pp. 1129-1134).'
 ---
 
@@ -34,7 +33,7 @@ our proposed algorithms over several state-of-the-art methods.
 
 [**ICDM 2017**](icdm2017.bigke.org/)
 [
-[paper](http://wenchieh.github.io/files/pdf/dba.pdf) |
+[paper](http://wenchieh.github.io/files/pdf/bda.pdf) |
 [code](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/BDA)  |
 [bib](https://dblp.uni-trier.de/rec/bibtex/conf/icdm/WangCHFS17)
 ]
