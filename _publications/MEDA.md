@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/MEDA
 date: 2018-10-05
 venue: 'ACM International Conference on Multimedia (ACM MM) 2018'
-paperurl: 'http://wenchieh.github.io/files/pdf/meda.pdf'
 citation: 'Wang, J., Feng, W., Chen, Y., Yu, H., Huang, M., & Yu, P. S. (2018). &quot;Visual domain adaptation with manifold embedded distribution alignment&quot;. <i>In 2018 ACM Multimedia Conference on Multimedia Conference. ACM.</i> (pp. 402-410).'
 ---
 
