@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/EAGLEMINE_ODD
 date: 2018-08-20
 venue: 'KDD Outlier Detection De-constructed (ODD v5.0) Workshop 2018.'
-paperurl: 'http://wenchieh.github.io/files/pdf/ealgemine_ODDv5.pdf'
 citation: 'Feng, W., Liu, S., Faloutsos, C., Hooi, B., Shen, H., & Cheng, X. (2019). &quot;EagleMine: Vision-Guided Mining in Large Graphs&quot;. <i>KDD Outlier Detection De-constructed (ODD v5.0) Workshop 2018.</i>'
 ---
 
