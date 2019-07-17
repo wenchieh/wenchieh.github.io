@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/CATCHCORE
 date: 2019-09-16
 venue: 'European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. (ECML-PKDD) 2019'
-paperurl: 'http://wenchieh.github.io/files/pdf/catchcore.pdf'
 citation: 'Feng, W., Liu, S., Shen, H., & Cheng, X. (2019). &quot;CatchCore: Catching Hierarchical Dense Subtensor&quot;.<i>In European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. </i>'
 ---
 
