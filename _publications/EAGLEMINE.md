@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/EAGLEMINE
 date: 2019-04-15
 venue: 'In Pacific-Asia Conference on Knowledge Discovery and Data Mining. (PAKDD) 2019'
-paperurl: 'http://wenchieh.github.io/files/pdf/eaglemine.pdf'
 citation: 'Feng, W., Liu, S., Faloutsos, C., Hooi, B., Shen, H., & Cheng, X. (2019). &quot;Beyond outliers and on to micro-clusters: Vision-guided Anomaly Detection&quot;. <i>In Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham.</i> (pp. 541-554).'
 ---
 
