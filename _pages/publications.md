@@ -28,7 +28,7 @@ Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng.
 
 <b>Transfer Learning with Dynamic Distribution Adaptation</b> <br>
 Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang.
-<i> ACM Transactions on Intelligent Systems and Technology (TIST)</span></i>. <b> Journal (Accept)</b> [paper and code coming soon].
+<i> ACM Transactions on Intelligent Systems and Technology (TIST)</i>. <b> Journal (Accept)</b> [paper and code coming soon].
 
 <b>[Visual Domain Adaptation with Manifold Embedded Distribution Alignment](https://wenchieh.github.io/publication/MEDA)</b> <br>
 Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu.
