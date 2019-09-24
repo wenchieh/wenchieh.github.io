@@ -30,6 +30,6 @@ improving accuracy in synthetic and microblog datasets.
 [paper](http://wenchieh.github.io/files/pdf/eaglemine.pdf) |
 [appendix](http://wenchieh.github.io/files/pdf/eaglemine_supple.pdf) |
 [code](https://github.com/wenchieh/eaglemine) |
-[slide](http://wenchieh.github.io/files/slide/eaglemine.pptx) |
+[slide](http://wenchieh.github.io/files/slide/eagleminePAKDD2019.pptx) |
 [bib](https://dblp.uni-trier.de/rec/bibtex/conf/pakdd/FengLFHSC19)
 ]

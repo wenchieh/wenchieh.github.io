@@ -27,9 +27,9 @@ redirect_from:
 
 
 # Recent News
-
+* September 15 - September 21 2019. I attended the ECMLPKDD 2019 held in Würzburg, Germany.
 * June 8, 2019. One paper accepted to ECML-PKDD 2019.
-* April 13 - April 19, 2017. I attended the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining held in Macau, China.
+* April 13 - April 19, 2019. I attended the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining held in Macau, China.
 * December 14, 2018. Two papers accepted to PAKDD 209.
 * July, 1, 2018. One paper accepted to ACM Multi medium 2018
 * August 17, 2017. One paper accepted to ICDM 2017.

@@ -34,5 +34,5 @@ significantly improving accuracy in a microblog dataset.
 [appendix](http://wenchieh.github.io/files/pdf/eaglemine_supple_ODDv5.pdf) |
 [poster](http://wenchieh.github.io/files/pdf/eaglemine_poster.pdf) |
 [code](https://github.com/wenchieh/eaglemine) |
-[slide](http://wenchieh.github.io/files/slide/eaglemine_ODDv5.pdf)
+[slide](http://wenchieh.github.io/files/slide/eaglemineSIGKDDODDv5.pdf)
 ]

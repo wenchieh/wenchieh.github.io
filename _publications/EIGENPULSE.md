@@ -29,6 +29,6 @@ efficiency compared with the state-of-the-art baseline.
 [
 [paper](http://wenchieh.github.io/files/pdf/eigenpulse.pdf) |
 code |
-[slide](http://wenchieh.github.io/files/slide/eaglepulse.pptx) |
+[slide](http://wenchieh.github.io/files/slide/eaglepulsePAKDD2019.pptx) |
 [bib](https://dblp.uni-trier.de/rec/bibtex/conf/pakdd/ZhangLYFC19)
 ]
