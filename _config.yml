@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WENCHIEH"
 title_separator          : "-"
 name                     : &name "Wenjie Feng"
-description              : &description "Ph.D. student, Institute of Computing Techonogy (ICT), Chinese Academic of Sciences (CAS)"
+description              : &description "Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
 url                      : https://wenchieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenchieh/wenchieh.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : wenchieh14 #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenjie Feng"
   avatar           : "wenchieh.jpg"
-  bio              : "Ph.D. student, Institute of Computing Techonogy (ICT), Chinese Academic of Sciences (CAS)"
-  location         : "Beijing, China"
+  bio              : "Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
+  location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en"
-  email            : "fengwenjie@ict.ac.cn"
+  email            : "wenchiehfeng.us@gmail.com" #"fengwenjie@ict.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Feng_Wenjie"
   uri              :
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "wenchieh14" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
