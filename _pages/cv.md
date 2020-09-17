@@ -18,7 +18,7 @@ redirect_from:
 
 ## EDUCATION
 
-* Ph.D. in computer science, Institute of Computing Technology (ICT), Chinese Academic of Sciences, 2020 (expected)
+* Ph.D. in computer science, Institute of Computing Technology (ICT), Chinese Academic of Sciences, 2020
 * Ph.D. in computer science, University of Chinese Academic of Sciences (UCAS), 2014
 * B.S. in Computer Science and Technology, Beijing Jiaotong University, 2010
 

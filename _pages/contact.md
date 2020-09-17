@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-**Email**: fengwenjie (at) ict.ac.cn  |  wenchiehfeng.us (at) gmail.com <br><br>
+**Email**: wenchiehfeng.us (at) gmail.com <br><br>
 **WWW**: [https://wenchieh.github.io](https://wenchieh.github.io)
 <br> <br>
 **Address**: <br>

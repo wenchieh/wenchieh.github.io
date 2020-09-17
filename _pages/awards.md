@@ -7,6 +7,8 @@ redirect_from:
   - /awards.html
 ---
 
+* **Best DM Student Paper Award** of ECML-PKDD 2020.
+* **Special scholarship** of ICT 2019.
 * **Student Travel Award**. The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD, 2019.
 * **First Class Academic Scholarship** (2X),  ICT, CAS. 2016, 2018.
 * **Merit Student**, University of Chinese Academy of Sciences. 2017.
