@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Technical reports
+
+<b>Learning to Match Distributions for Domain Adaptation.</b> <br>
+Chaohui Yu*, Jindong Wang*, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
+<i> <b> [Arxiv (__preprint__)](https://arxiv.org/abs/2007.10791) </b> </i>.
+
+------
 
 ## Graph Mining
 
