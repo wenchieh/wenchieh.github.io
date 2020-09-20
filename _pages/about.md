@@ -16,7 +16,9 @@ redirect_from:
 
 * I will be a Research Fellow in the Institute of Data Science in National University of Singapore. [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
 * My research interests include data mining, large-scale graph mining, machine learning, social network analysis, and anomaly detection.
-*  I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/) and worked with [Shenghua Liu](https://shenghua-liu.github.io/). I received my Bachelor’s Degree in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
+*  I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/).
+<!--and worked with [Shenghua Liu](https://shenghua-liu.github.io/).-->  
+I received my Bachelor’s Degree in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
 
 <!--
  I am on job market this year, please find my CV and research statement using the links above.
