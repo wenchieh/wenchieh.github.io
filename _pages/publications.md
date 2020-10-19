@@ -45,6 +45,11 @@ Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng.
 
 ## Machine Learning
 
+<b>[C] Learning to Match Distributions for Domain Adaptation</b> <br>
+	Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
+<i> arXiv Pre-print</i>. <b>[CoRR](https://arxiv.org/abs/2007.10791)</b>.
+
+
 <!--
 <b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
 Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang.
@@ -65,7 +70,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen.
 
 # Journal
 
-<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
+<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
 <i> [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) </i>. <b> Journal </b>.
 
