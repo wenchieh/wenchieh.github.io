@@ -30,7 +30,7 @@ e.g., to detect the synchronized patterns in the temporal retweet event.
 ---
 
 [
-[paper (J)]((http://wenchieh.github.io/files/pdf/eaglemine_journal.pdf)) |
+[paper (J)](http://wenchieh.github.io/files/pdf/eaglemine_journal.pdf) |
 [code](https://github.com/wenchieh/eaglemine) |
 [bib](http://wenchieh.github.io/files/bib/EAGLEMINE)
 ]
