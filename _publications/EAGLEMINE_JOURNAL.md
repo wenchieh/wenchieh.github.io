@@ -1,7 +1,7 @@
 ---
 title: "EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection"
 collection: publications
-permalink: /publication/EAGLEMINE
+permalink: /publication/EAGLEMINE_JOURNAL
 date: 2020-08-13
 venue: 'Future Generation Computer Systems'
 citation: 'Feng, W., Liu, S., Faloutsos, C., Hooi, B., Shen, H., & Cheng, X.
