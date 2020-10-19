@@ -8,7 +8,7 @@ author_profile: true
 
 <b>Learning to Match Distributions for Domain Adaptation.</b> <br>
 Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
-<i> <b> [Arxiv (__preprint__)](https://arxiv.org/abs/2007.10791) </b> </i>.
+<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2007.10791) </b> </i>.
 
 ------
 
@@ -45,10 +45,11 @@ Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng.
 
 ## Machine Learning
 
+<!--
 <b>[C] Learning to Match Distributions for Domain Adaptation</b> <br>
 	Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
 <i> arXiv Pre-print</i>. <b>[CoRR](https://arxiv.org/abs/2007.10791)</b>.
-
+-->
 
 <!--
 <b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
