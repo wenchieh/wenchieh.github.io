@@ -71,7 +71,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen.
 
 # Journal
 
-<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
+<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE-J)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
 <i> [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) </i>. <b> Journal </b>.
 
