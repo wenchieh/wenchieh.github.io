@@ -82,15 +82,15 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen.
 
 
 <b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
-Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang.
+Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 <i> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/doi/10.1145/3360309)</i>. <b> Journal </b>.
 
 
 ----
 
-# Dissertation
+# Dissertation (Chinese)
 
-<b> Feng Wenjie.</b> [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf) (Chinese)
+<b> Feng Wenjie</b>. [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf)
 
 
 [\* denotes equal contribution]
