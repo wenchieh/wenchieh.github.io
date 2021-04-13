@@ -14,10 +14,9 @@ redirect_from:
 </p> -->
 
 
-* I am a Research Fellow in the Institute of Data Science in National University of Singapore. [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
-* My research interests include data mining, large-scale graph mining, machine learning, social network analysis, and anomaly detection.
-*  I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/).
-<!--and worked with [Shenghua Liu](https://shenghua-liu.github.io/).-->  
+* I am a Research Fellow in the [[Institute of Data Science (IDS)](https://ids.nus.edu.sg/)] in National University of Singapore working with [[Prof. Bryan Hooi](https://bhooi.github.io/)].  [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
+* My research interests include data mining, large-scale graph mining, anomaly detection, machine learning, and social network analysis.
+* I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Prof. Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/) and worked with [Prof. Shenghua Liu](https://shenghua-liu.github.io/).
 I received my Bachelor’s Degree in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
 
 <!-- I am on job market this year, please find my CV and research statement using the links above. -->
@@ -25,13 +24,15 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 <br>
 
 
+
 # Recent News
+* **Call for papers:** [[Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)]
+* November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
 * August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **best student DM paper award** for ECML-PKDD 2020.
+<!--
 * August 20, 2020, One paper accepted to _Future Generation Computer Systems_.
 * June 5, 2020. One paper accepted to ECML-PKDD 2020.
-
-<!--
 * November 8 - November 11 2019. I attended the ICDM 2019 held in Beijing, China.
 * September 15 - September 21 2019. I attended the ECMLPKDD 2019 held in Würzburg, Germany.
 * June 8, 2019. One paper accepted to ECML-PKDD 2019.
