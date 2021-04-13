@@ -30,7 +30,8 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
 * August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **best student DM paper award** for ECML-PKDD 2020.
-<!--
+
+<!---
 * August 20, 2020, One paper accepted to _Future Generation Computer Systems_.
 * June 5, 2020. One paper accepted to ECML-PKDD 2020.
 * November 8 - November 11 2019. I attended the ICDM 2019 held in Beijing, China.
