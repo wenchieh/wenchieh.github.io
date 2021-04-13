@@ -6,6 +6,11 @@ author_profile: true
 
 ## Technical reports
 
+<b>Learning Invariant Representations across Domains and Tasks.</b> <br>
+Jindong Wang, <b>Wenjie Feng</b>, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, Tie-Yan Liu.
+<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2103.05114) </b> </i>.
+
+
 <b>Learning to Match Distributions for Domain Adaptation.</b> <br>
 Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
 <i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2007.10791) </b> </i>.
@@ -85,7 +90,7 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang
 
 # Dissertation
 
-<b> Feng Wenjie</b> [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf) (Chinese)
+<b> Feng Wenjie.</b> [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf) (Chinese)
 
 
 [\* denotes equal contribution]
