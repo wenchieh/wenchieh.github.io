@@ -11,10 +11,10 @@ author_profile: true
 **WWW**: [https://wenchieh.github.io](https://wenchieh.github.io)
 <br> <br>
 **Address**: <br>
-Institute of Data Science
-innovation 4.0, #04-06
-3 Research Link
-Singapore 117602
+Institute of Data Science, <br>
+innovation 4.0, #04-06 <br>
+3 Research Link <br>
+Singapore 117602 <br>
 
 <!--
 CAS Key Lab of Network Data Science and Technology, <br>
