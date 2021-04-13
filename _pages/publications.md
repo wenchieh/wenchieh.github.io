@@ -83,4 +83,9 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang
 
 ----
 
+# Dissertation
+
+<b> Feng Wenjie</b> [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf) (Chinese)
+
+
 [\* denotes equal contribution]
