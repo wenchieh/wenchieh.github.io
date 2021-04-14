@@ -25,8 +25,9 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 
 
 
-# Recent News
-* **Call for papers:** [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
+# <span style="color:red">What's New</span>
+* <span style="color:red">Call for papers</span>: 
+    [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
 * August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **best student DM paper award** for ECML-PKDD 2020.
