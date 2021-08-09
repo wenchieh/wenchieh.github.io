@@ -62,6 +62,11 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang
 <i> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/doi/10.1145/3360309)</i>. <b> Journal </b>.
 -->
 
+<b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series.</b> <br>
+Yuntao Du, Jindong Wang, <b>Wenjie Feng</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang
+<i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> CIKM 2021 </b>.
+
+
 <b>[C] [Visual Domain Adaptation with Manifold Embedded Distribution Alignment](https://wenchieh.github.io/publication/MEDA)</b> <br>
 Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu.
 <i> The 26th ACM International Conference on Multimedia. ACM Multimedia <span style="color:blue">(Long Talk)</span></i>. <b> ACM MM 2018 </b>.
