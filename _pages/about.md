@@ -28,6 +28,7 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 # <span style="color:red">What's New</span>
 * <span style="color:red">Call for papers</span>: 
     [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
+* August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to CIKM 2022.
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
 * August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **best student DM paper award** for ECML-PKDD 2020.
@@ -37,7 +38,7 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 * June 5, 2020. One paper accepted to ECML-PKDD 2020.
 * November 8 - November 11 2019. I attended the ICDM 2019 held in Beijing, China.
 * September 15 - September 21 2019. I attended the ECMLPKDD 2019 held in Würzburg, Germany.
-* June 8, 2019. One paper accepted to ECML-PKDD 2019.
+* June 8, 2019. One paper is accepted to ECML-PKDD 2019.
 * April 13 - April 19, 2019. I attended the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining held in Macau, China.
 * December 14, 2018. Two papers accepted to PAKDD 209.
 * July, 1, 2018. One paper accepted to ACM Multi medium 2018
