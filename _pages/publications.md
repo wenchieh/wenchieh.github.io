@@ -63,7 +63,7 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang
 -->
 
 <b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series.</b> <br>
-Yuntao Du, Jindong Wang, <b>Wenjie Feng</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang
+Yuntao Du, Jindong Wang\#, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang
 <i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> CIKM 2021 </b>.
 
 
@@ -98,4 +98,4 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 <b> Feng Wenjie</b>. [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf)
 
 
-[\* denotes equal contribution]
+[\* denotes equal contribution, \# denotes corresponding author]
