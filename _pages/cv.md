@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wenjie Feng (冯文杰)"
+title: "Wenjie Feng"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,9 +18,9 @@ redirect_from:
 
 ## EDUCATION
 
-* Ph.D. in computer science, Institute of Computing Technology (ICT), Chinese Academic of Sciences, 2020
-* Ph.D. in computer science, University of Chinese Academic of Sciences (UCAS), 2014
-* B.S. in Computer Science and Technology, Beijing Jiaotong University, 2010
+* Ph.D. in computer science, Institute of Computing Technology (ICT), Chinese Academic of Sciences, 2015 - 2020
+* Ph.D. in computer science, University of Chinese Academic of Sciences (UCAS), 2014 - 2020
+* B.S. in Computer Science and Technology, Beijing Jiaotong University, 2010 - 2014
 
 <!--
 Work experience   POSITIONS
