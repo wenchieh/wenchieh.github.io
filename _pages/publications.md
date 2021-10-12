@@ -21,6 +21,11 @@ Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiq
 
 ## Graph Mining
 
+<b>[C] MonLAD: Money Laundering Agents Detection in Transaction Streams</b> <br>
+Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenhan Wang, and Xueqi Cheng.
+<i>The 15th International Conference on Web Search and Data Mining </i>. <b> WSDM 2022 </b>. 
+
+
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> ECML-PKDD 2020 </b>.  (<b><span style="color:red">Best DM Student Paper Award</span></b>)
