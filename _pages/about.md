@@ -28,6 +28,7 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 # <span style="color:red">What's New</span>
 * <span style="color:red">Call for papers</span>: 
     [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
+* October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to WSDM 2022.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to CIKM 2022.
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
