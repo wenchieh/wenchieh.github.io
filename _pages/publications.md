@@ -7,12 +7,12 @@ author_profile: true
 ## Technical reports
 
 <b>Learning Invariant Representations across Domains and Tasks.</b> <br>
-Jindong Wang, <b>Wenjie Feng</b>, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, Tie-Yan Liu.
+Jindong Wang, <b>Wenjie Feng</b>, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, Tie-Yan Liu. <br>
 <i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2103.05114) </b> </i>.
 
 
 <b>Learning to Match Distributions for Domain Adaptation.</b> <br>
-Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
+Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu. <br>
 <i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2007.10791) </b> </i>.
 
 ------
@@ -22,34 +22,35 @@ Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiq
 ## Graph Mining
 
 <b>[C] MonLAD: Money Laundering Agents Detection in Transaction Streams</b> <br>
-Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenhan Wang, and Xueqi Cheng.
+Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenhan Wang, and Xueqi Cheng. <br>
 <i>The 15th International Conference on Web Search and Data Mining </i>. <b> WSDM 2022 </b>. 
 
 
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng.
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> ECML-PKDD 2020 </b>.  (<b><span style="color:red">Best DM Student Paper Award</span></b>)
+<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng. <br>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> ECML-PKDD 2020 </b> 
+(<b><span style="color:red">Best DM Student Paper Award</span></b>).
 
 <!--
 <b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
+<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
 <i> [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) </i>. <b> Journal </b>.
 -->
 
 <b>[C] [CachCore: Catching Hierarchical Dense Subtensor](https://wenchieh.github.io/publication/CATCHCORE)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
+<b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng. <br>
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <span style="color:blue">(Long Talk)</span></i>. <b> ECML-PKDD 2019 </b>.
 
 <b>[C] [Beyond outliers and on to micro-clusters: Vision-guided anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
+<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
 <i>The 23rd Pacific-Asia Conference in Knowledge Discovery and Data Mining <span style="color:blue">(Long Talk)</span></i>. <b> PAKDD 2019 </b>.
 
 <b>[C] [EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation](https://wenchieh.github.io/publication/EIGENPULSE)</b> <br>
-Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng.
+Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng. <br>
 <i>The 23rd Pacific-Asia Conference in Knowledge Discovery and Data Mining <span style="color:blue">(Long Talk)</span></i>. <b> PAKDD 2019 </b>.
 
 <b>[CW] [EagleMine: Vision-Guided Mining in Large Graphs](https://wenchieh.github.io/publication/EAGLEMINE_ODD.html)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
+<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
 <i>KDD Outlier Detection De-constructed (ODD) Workshop <span style="color:blue">(Long Talk)</span></i>. <b> KDD ODDv5.0 2018 </b>.
 
 
@@ -57,27 +58,27 @@ Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng.
 
 <!--
 <b>[C] Learning to Match Distributions for Domain Adaptation</b> <br>
-	Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu.
+	Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu. <br>
 <i> arXiv Pre-print</i>. <b>[CoRR](https://arxiv.org/abs/2007.10791)</b>.
 -->
 
 <!--
 <b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
-Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang.
+Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang. <br>
 <i> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/doi/10.1145/3360309)</i>. <b> Journal </b>.
 -->
 
 <b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series.</b> <br>
-Yuntao Du, Jindong Wang\#, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang
+Yuntao Du, Jindong Wang\#, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang. <br>
 <i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> CIKM 2021 </b>.
 
 
 <b>[C] [Visual Domain Adaptation with Manifold Embedded Distribution Alignment](https://wenchieh.github.io/publication/MEDA)</b> <br>
-Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu.
+Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu. <br>
 <i> The 26th ACM International Conference on Multimedia. ACM Multimedia <span style="color:blue">(Long Talk)</span></i>. <b> ACM MM 2018 </b>.
 
 <b>[C] [Balanced Distribution Adaptation for Transfer Learning](https://wenchieh.github.io/publication/BDA)</b> <br>
-Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen.
+Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 <i>IEEE International Conference on Data Mining <span style="color:blue">(Short)</span> </i>. <b> ICDM 2017 </b>.
 
 
@@ -100,7 +101,7 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 
 # Dissertation (Chinese)
 
-<b> Feng Wenjie</b>. [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf)
+<b> Feng Wenjie </b>. [Collective Anomaly Pattern Mining in Large-Scale Graph Data](http://wenchieh.github.io/files/pdf/thesis_zh.pdf) (In Chinese)
 
 
 [\* denotes equal contribution, \# denotes corresponding author]
