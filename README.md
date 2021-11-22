@@ -1,8 +1,9 @@
+
 ## [Welcome to my homepage!](https://wenchieh.github.io/)
 
 
-### Hi there 👋
-[![wenchieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenchieh)] (https://github.com/wenchieh/wenchieh.github.io) <!-- -->
+## Hi there 👋
+[![Wenchieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenchieh)](https://github.com/wenchieh/wenchieh.github.io)
 
 
 **wenchieh/wencheih.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
