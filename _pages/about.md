@@ -14,27 +14,37 @@ redirect_from:
 </p> -->
 
 
-* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in National University of Singapore working with [Prof. Bryan Hooi](https://bhooi.github.io/).  [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
-* My research interests include data mining, large-scale graph mining, anomaly detection, machine learning, and social network analysis.
+* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in National University of Singapore working with [Prof. Bryan Hooi](https://bhooi.github.io/) and [Prof. See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).  [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
 * I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Prof. Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/) and worked with [Prof. Shenghua Liu](https://shenghua-liu.github.io/).
 I received my Bachelor’s Degree in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
 
-<!-- I am on job market this year, please find my CV and research statement using the links above. -->
+<!-- I am on job market this year, please find my CV and research statement using the links above. 
+* My research interests include data mining, large-scale graph mining, anomaly detection, machine learning, and social network analysis.
+-->
 
 <br>
 
 
+My research interests include:
+
+* Large-scale graph mining & Data mining
+* Anomaly detection
+* Social network analysis
+* Machine Learning & Graph learning 
+* Explainable AI
+
+
 
 # <span style="color:red">What's New</span>
-* <span style="color:red">Call for papers</span>: 
-    [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to WSDM 2022.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to CIKM 2022.
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
 * September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
-* August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **best student DM paper award** for ECML-PKDD 2020.
+* August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best student DM paper award** for ECML-PKDD 2020.
 
 <!---
+* <span style="color:red">Call for papers</span>: 
+    [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
 * August 20, 2020, One paper accepted to _Future Generation Computer Systems_.
 * June 5, 2020. One paper accepted to ECML-PKDD 2020.
 * November 8 - November 11 2019. I attended the ICDM 2019 held in Beijing, China.
@@ -47,6 +57,10 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 -->
 
 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=X13UXXGs-cdyBrZUOxRs5YyuLvbguC-puXNj3xUKjMs&cl=ffffff&w=a"></script>
+
+
 ----
 
-Last updated on September 15, 2020.
+Last updated on November 1, 2021.
