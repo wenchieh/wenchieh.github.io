@@ -7,8 +7,10 @@ author_profile: true
 
 ## Academic service
 
-* Conference PC member / reviewer: AAAI 2021, ECML-PKDD 2020, ICDM 2020, NIPS 2020, ICDM 2019.
+* Conference Program Commitee Member: ECML-PKDD, WWW
+* Conference Reviewer: AAAI 2021, ECML-PKDD 2020, ICDM 2020, NIPS 2020, ICDM 2019.
 * Journal reviewer: TKDD, IEEE Access.
+* Editor: Frontiers Reasearch Topic: Advances in Transfer Learning
 
 <!--
 ## Graduate Courses
