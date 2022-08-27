@@ -29,16 +29,8 @@ Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenh
 
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng. <br>
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. 
-(<b><span style="color:red">Best DM Student Paper Award</span></b>). <b> [ECML-PKDD 2020](https://ecmlpkdd2020.net/) </b><br>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> [ECML-PKDD 2020](https://ecmlpkdd2020.net/). </b> (<b><span style="color:red">Best DM Student Paper Award</span></b>).<br>
 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-67658-2_11) | [slides](http://wenchieh.github.io/files/slide/specgreedyECMLPKDD2020.pptx) | [appendix](http://wenchieh.github.io/files/pdf/specgreedy_supple.pdf) | [video](https://papertalk.org/papertalks/27872) | [code and datasets](https://github.com/wenchieh/specgreedy) | [bib](https://dblp.org/rec/conf/pkdd/FengLKSC20.html?view=bibtex)]
-
-
-<!--
-<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
-<i> [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) </i>. <b> Journal </b>.
--->
 
 <b>[C] [CachCore: Catching Hierarchical Dense Subtensor](https://wenchieh.github.io/publication/CATCHCORE)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng. <br>
@@ -96,15 +88,36 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 
 # Journal
 
-<b>[J] [Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation]</b> <br>
+<!--
+<b>[J] [Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms]</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, Xueqi Cheng.
+<i> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) </i>. </br>
+[paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
+-->
+
+<!--
+<b>[J] [Hierarchical Dense Pattern Detection in Tensor]</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
+<i> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd) </i>. </br>
+[paper | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
+-->
+
+
+<b>[J] Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation</b> <br>
 Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
-<i> [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) </i>. </br>
+<i> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) </i>. </br>
 [[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | bib]
 
 
+<!--
+<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
+<i> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) </i>. <b> Journal </b>.
+-->
+
 <b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
-<i> [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) </i>.</br>
+<i> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) </i>.</br>
 [[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) | [code and datasets](https://github.com/wenchieh/eaglemine) | [bib](https://dblp.org/rec/journals/fgcs/FengLFHSC21.html?view=bibtex)]
 
 
