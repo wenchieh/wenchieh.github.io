@@ -28,7 +28,7 @@ efficiency compared with the state-of-the-art baseline.
 [**PAKDD 2019**](http://pakdd2019.medmeeting.org)
 [
 [paper](http://wenchieh.github.io/files/pdf/eigenpulse.pdf) |
-code |
-[slide](http://wenchieh.github.io/files/slide/eaglepulsePAKDD2019.pptx) |
+[slides](http://wenchieh.github.io/files/slide/eaglepulsePAKDD2019.pptx) |
+[code](https://github.com/BGT-M/spartan2) |
 [bib](https://dblp.uni-trier.de/rec/bibtex/conf/pakdd/ZhangLYFC19)
 ]
