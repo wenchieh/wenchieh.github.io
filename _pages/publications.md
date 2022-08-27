@@ -29,17 +29,17 @@ Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenh
 
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng. <br>
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> [ECML-PKDD 2020](https://ecmlpkdd2020.net/). </b> (<b><span style="color:red">Best DM Student Paper Award</span></b>).<br>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases </i>. <b> [ECML-PKDD 2020](https://ecmlpkdd2020.net/). </b> (<b><span style="color:red">Best DM Student Paper Award</span></b>). <br>
 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-67658-2_11) | [slides](http://wenchieh.github.io/files/slide/specgreedyECMLPKDD2020.pptx) | [appendix](http://wenchieh.github.io/files/pdf/specgreedy_supple.pdf) | [video](https://papertalk.org/papertalks/27872) | [code and datasets](https://github.com/wenchieh/specgreedy) | [bib](https://dblp.org/rec/conf/pkdd/FengLKSC20.html?view=bibtex)]
 
 <b>[C] [CachCore: Catching Hierarchical Dense Subtensor](https://wenchieh.github.io/publication/CATCHCORE)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng. <br>
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <span style="color:blue">(Long Talk)</span></i>. <b> [ECML-PKDD 2019](https://ecmlpkdd2019.org/) </b>.<br>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <span style="color:blue">(Long Talk)</span></i>. <b> [ECML-PKDD 2019](https://ecmlpkdd2019.org/) </b>. <br>
 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-46150-8_10) | [slides](http://wenchieh.github.io/files/slide/catchcoreECMLPKDD2019.pptx) | [appendix](http://wenchieh.github.io/files/pdf/catchcore_supple.pdf) | [poster](http://wenchieh.github.io/files/pdf/catchcore_poster.pdf) | [code and datasets](https://github.com/wenchieh/catchcore) | [bib](https://dblp.org/rec/conf/pkdd/FengLC19.html?view=bibtex)]
 
 <b>[C] [Beyond outliers and on to micro-clusters: Vision-guided anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
-<i>The 23rd Pacific-Asia Conference in Knowledge Discovery and Data Mining <span style="color:blue">(Long Talk)</span></i>. <b> [PAKDD 2019](https://pakdd2019.medmeeting.org/en) </b>.<br>
+<i>The 23rd Pacific-Asia Conference in Knowledge Discovery and Data Mining <span style="color:blue">(Long Talk)</span></i>. <b> [PAKDD 2019](https://pakdd2019.medmeeting.org/en) </b>. <br>
 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-16148-4_42) | [slides](http://wenchieh.github.io/files/slide/eagleminePAKDD2019.pptx) | [appendix](http://wenchieh.github.io/files/pdf/eaglemine_supple.pdf) | poster | [code and datasets](https://github.com/wenchieh/eaglemine) | [bib](https://dblp.org/rec/conf/pakdd/FengLFHSC19.html?view=bibtex)]
 
 <b>[C] [EigenPulse: Detecting Surges in Large Streaming Graphs with Row Augmentation](https://wenchieh.github.io/publication/EIGENPULSE)</b> <br>
@@ -98,7 +98,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 <!--
 <b>[J] [Hierarchical Dense Pattern Detection in Tensor]</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
-<i> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd) </i>. </br>
+<i> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd) </i>. <br>
 [paper | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
 -->
 
@@ -117,7 +117,7 @@ Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
 
 <b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
-<i> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) </i>.<br>
+<i> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) </i>. <br>
 [[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) | [code and datasets](https://github.com/wenchieh/eaglemine) | [bib](https://dblp.org/rec/journals/fgcs/FengLFHSC21.html?view=bibtex)]
 
 
