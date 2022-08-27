@@ -31,7 +31,7 @@ intense interactions in DBLP dataset. Meanwhile, CatchCore also scales linearly 
 [paper](http://wenchieh.github.io/files/pdf/catchcore.pdf) |
 [appendix](http://wenchieh.github.io/files/pdf/catchcore_supple.pdf) |
 [poster](http://wenchieh.github.io/files/pdf/catchcore_poster.pdf) |
+[slides](http://wenchieh.github.io/files/slide/catchcoreECMLPKDD2019.pptx) |
 [code](https://github.com/wenchieh/catchcore) |
-[slide](http://wenchieh.github.io/files/slide/catchcoreECMLPKDD2019.pptx) |
 [bib](https://dblp.uni-trier.de/rec/bibtex/conf/pkdd/FengLC19)
 ]
