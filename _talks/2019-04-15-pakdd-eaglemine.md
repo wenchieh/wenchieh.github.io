@@ -9,4 +9,4 @@ location: "Macau, China"
 ---
 
 Oral Presentation of the research paper [Beyond outliers and on to micro-clusters: Vision-guided Anomaly Detection](http://wenchieh.github.io/files/pdf/eaglemine.pdf) on the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining.<br>
-[[slide]](http://wenchieh.github.io/files/slide/eaglemine.pptx)
+[[slides](http://wenchieh.github.io/files/slide/eaglemine.pptx)]
