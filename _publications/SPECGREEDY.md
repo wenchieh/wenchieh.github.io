@@ -34,7 +34,7 @@ such as finding collaborations that appear suddenly in a big, time-evolving co-a
 [
 [paper](http://wenchieh.github.io/files/pdf/specgreedy.pdf) |
 [appendix](http://wenchieh.github.io/files/pdf/specgreedy_supple.pdf) |
+[slides](http://wenchieh.github.io/files/slide/specgreedyECMLPKDD2020.pptx) |
 [code](https://github.com/wenchieh/specgreedy) |
-[slide](http://wenchieh.github.io/files/slide/specgreedyECMLPKDD2020.pptx) |
 bib
 ]
