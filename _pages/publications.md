@@ -21,10 +21,16 @@ Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiq
 
 ## Graph Mining
 
+<b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
+<b>Wenjie Feng\*</b>, Li Wang, Bryan Hooi, Shenghua Liu, See-Kiong Ng, and Xueqi Cheng. <br>
+<i> Under Review </i> <br>
+[paper | slides | code and datasets | bib]
+
+
 <b>[C] MonLAD: Money Laundering Agents Detection in Transaction Streams</b> <br>
 Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenhan Wang, and Xueqi Cheng. <br>
 <i>The 15th International Conference on Web Search and Data Mining </i>. <b> [WSDM 2022](https://www.wsdm-conference.org/2022/). </b> <br>
-[[paper](https://dl.acm.org/doi/10.1145/3488560.3498418) | slides | [video](https://www.youtube.com/watch?v=TmtJw9IaKck) | [code and datasets](https://github.com/BGT-M/MonLAD) | [bib](https://dblp.org/rec/conf/wsdm/SunFLX0HWC22.html?view=bibtex) ]
+[[paper](https://dl.acm.org/doi/10.1145/3488560.3498418) | slides | [video](https://www.youtube.com/watch?v=TmtJw9IaKck) | [code and datasets](https://github.com/BGT-M/MonLAD) | [bib](https://dblp.org/rec/conf/wsdm/SunFLX0HWC22.html?view=bibtex)]
 
 
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
@@ -66,7 +72,7 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>,, Han Yu, Meiyu Huang, Qiang Yang
 <i> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/doi/10.1145/3360309)</i>. <b> Journal </b>.
 -->
 
-<b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series.</b> <br>
+<b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series</b> <br>
 Yuntao Du, Jindong Wang\#, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang. <br>
 <i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> [CIKM 2021](https://www.cikm2021.org/). </b> <br>
 [[paper](https://dl.acm.org/doi/10.1145/3459637.3482315) | [video](https://www.youtube.com/watch?v=WWDmP8iL_3U) | appendix | poster | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn) | [bib](https://dblp.org/rec/journals/corr/abs-2108-04443.html?view=bibtex)]
@@ -95,18 +101,16 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
 -->
 
-<!--
-<b>[J] [Hierarchical Dense Pattern Detection in Tensor]</b> <br>
+<b>[J] Hierarchical Dense Pattern Detection in Tensor</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
 <b> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
--->
 
 
 <b>[J] Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation</b> <br>
 Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
 <b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
-[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | bib]
+[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]_
 
 
 <!--
