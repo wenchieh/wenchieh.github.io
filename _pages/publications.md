@@ -101,7 +101,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
 -->
 
-<b>[J] Hierarchical Dense Pattern Detection in Tensor</b> <br>
+<b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
 <b> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
