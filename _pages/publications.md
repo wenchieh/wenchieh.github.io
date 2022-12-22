@@ -104,13 +104,13 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 <b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
 <b> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd). </b> <br>
-[paper | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
+[[paper](https://dl.acm.org/doi/10.1145/3577022) | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
 
 
 <b>[J] Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation</b> <br>
 Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
 <b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
-[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]_
+[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]
 
 
 <!--
