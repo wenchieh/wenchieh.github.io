@@ -19,11 +19,12 @@ Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiq
 
 # Conference
 
-## Graph Mining
+## Graph Mining & Learning
 
 <b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
-<b>Wenjie Feng\*</b>, Li Wang, Bryan Hooi, Shenghua Liu, See-Kiong Ng, and Xueqi Cheng. <br>
-<i> Under Review </i> <br>
+<b>Wenjie Feng\*</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
+<i> Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining 2023 </i>
+<i> [Under Review] </i> <br>
 [paper | slides | code and datasets | bib]
 
 
@@ -96,7 +97,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 
 <!--
 <b>[J] [Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms]</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, Xueqi Cheng.
+<b>Wenjie Feng</b>.
 <b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
 -->
