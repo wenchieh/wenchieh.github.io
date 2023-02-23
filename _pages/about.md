@@ -14,10 +14,13 @@ redirect_from:
 </p> -->
 
 
-* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in National University of Singapore working with Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).   [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] & [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
+* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in National University of Singapore working with Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).  
 
 * I received my Ph.D. in Computer Science from the [Institute of Computing Techonogy](http://www.ict.ac.cn/) at Chinese Academic of Sciences, where I was advised by [Prof. Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/) and worked with [Prof. Shenghua Liu](https://shenghua-liu.github.io/).
 I received my Bachelor’s Degree in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
+
+* [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] and [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
+
 
 <!-- I am on job market this year, please find my CV and research statement using the links above. 
 * My research interests include data mining, large-scale graph mining, anomaly detection, machine learning, and social network analysis.
