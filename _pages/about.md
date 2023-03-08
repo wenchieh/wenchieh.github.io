@@ -40,6 +40,8 @@ My research interests include:
 
 
 # <span style="color:black">What's New</span>
+* March 2023, Our demo & poster paper "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to The WebConf 2023.
+* November 2022, Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to TKDD.
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to WSDM 2022.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to CIKM 2022.
 * November 2020 - Now, I join in the IDS NUS as a Research Fellow.
