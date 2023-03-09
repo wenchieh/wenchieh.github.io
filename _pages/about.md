@@ -55,8 +55,8 @@ My research interests include:
     [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
 * August 20, 2020, One paper accepted to _Future Generation Computer Systems_.
 * June 5, 2020. One paper accepted to ECML-PKDD 2020.
-* November 8 - November 11 2019. I attended the ICDM 2019 held in Beijing, China.
-* September 15 - September 21 2019. I attended the ECMLPKDD 2019 held in Würzburg, Germany.
+* November 8 - November 11, 2019. I attended the ICDM 2019 held in Beijing, China.
+* September 15 - September 21, 2019. I attended the ECMLPKDD 2019 held in Würzburg, Germany.
 * June 8, 2019. One paper is accepted to ECML-PKDD 2019.
 * April 13 - April 19, 2019. I attended the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining held in Macau, China.
 * December 14, 2018. Two papers accepted to PAKDD 209.
@@ -68,7 +68,8 @@ My research interests include:
 
 ----
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=X13UXXGs-cdyBrZUOxRs5YyuLvbguC-puXNj3xUKjMs&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=270&t=m&d=X13UXXGs-cdyBrZUOxRs5YyuLvbguC-puXNj3xUKjMs&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=X13UXXGs-cdyBrZUOxRs5YyuLvbguC-puXNj3xUKjMs&cl=ffffff&w=a"></script> -->
 
 
 ----
