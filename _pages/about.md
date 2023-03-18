@@ -40,7 +40,7 @@ My research interests include:
 
 
 # <span style="color:black">What's New</span>
-* March 2023, Our demo & poster paper "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to The WebConf 2023.
+* March 2023, Our demo & poster paper "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to The WebConf 2023. Welcome to try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also contains detailed instructions for use.
 * Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to TKDD.
 * Our paper "Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation" is accepted to TMLR.
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to WSDM 2022.
