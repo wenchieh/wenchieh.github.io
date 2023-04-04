@@ -29,6 +29,14 @@ Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiq
 <!-- ## Graph Mining & Learning, Web Service -->
 
 
+
+<!-- <b>[C] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
+Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
+<i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. </i> ECML-PKDD 2023
+<i> [Under Review] </i> <br>
+[paper | slides | code and datasets | bib]
+ -->
+
 <!-- <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
 Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
 <i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i>
