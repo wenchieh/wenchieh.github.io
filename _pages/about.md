@@ -30,12 +30,14 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 
 
 My research interests include:
-
+* Machine Learning & Graph learning 
 * Large-scale graph mining & Data mining
 * Anomaly detection 
 * Social network analysis
-* Machine Learning & Graph learning 
 * Explainable AI
+
+
+<br>
 
 
 
