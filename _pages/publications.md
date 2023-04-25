@@ -33,7 +33,7 @@ Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
 [paper | slides | code and datasets | bib]
 
 
-<b>[D&P] EasySpider: A No-Code Visual System for Crawling the Web</b> <br>
+<b>[D&P] [EasySpider: A No-Code Visual System for Crawling the Web](https://www2023.thewebconf.org/program/accepted-posters/) </b> <br>
 Naibo Wang, <b>Wenjie Feng</b>, Jianwei Yin, See-Kiong Ng. <br>
 <i> Proceedings of the ACM Web Conference. The WebConf Demo & Poster 2023 </i> <br>
 [paper | [code](https://github.com/NaiboWang/EasySpider) | [video](https://youtube.com/playlist?list=PL0kEFEkWrT7mt9MUlEBV2DTo1QsaanUTp) | tutorial | bib]
