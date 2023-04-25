@@ -29,8 +29,7 @@ Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
 
 <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
 Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
-<i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i>
-<i> [Under Review] </i> <br>
+<i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i> <br>
 [paper | slides | code and datasets | bib]
 
 
