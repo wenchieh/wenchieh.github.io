@@ -18,18 +18,21 @@ Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
 [paper | slides | code and datasets | bib]
  -->
 
-<!-- <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
-Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
-<i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i>
-<i> [Under Review] </i> <br>
-[paper | slides | code and datasets | bib] -->
-
 
 <b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
 <b>Wenjie Feng\*</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
 <i> Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. KDD 2023 </i>
 <i> [Under Review] </i> <br>
 [paper | slides | code and datasets | bib]
+
+
+
+<b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
+Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
+<i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i>
+<i> [Under Review] </i> <br>
+[paper | slides | code and datasets | bib]
+
 
 <b>[D&P] EasySpider: A No-Code Visual System for Crawling the Web</b> <br>
 Naibo Wang, <b>Wenjie Feng</b>, Jianwei Yin, See-Kiong Ng. <br>
@@ -84,12 +87,12 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 
 # Journal
 
-<!--
-<b>[J] [Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms]</b> <br>
+
+<b>[J] Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms</b> <br>
 <b>Wenjie Feng</b>.
 <b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
--->
+
 
 <b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
