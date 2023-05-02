@@ -36,7 +36,7 @@ Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
 <b>[D&P] [EasySpider: A No-Code Visual System for Crawling the Web](https://www2023.thewebconf.org/program/accepted-posters/) </b> <br>
 Naibo Wang, <b>Wenjie Feng</b>, Jianwei Yin, See-Kiong Ng. <br>
 <i> Proceedings of the ACM Web Conference. The WebConf Demo & Poster 2023 </i> <br>
-[paper | [code](https://github.com/NaiboWang/EasySpider) | [video](https://youtube.com/playlist?list=PL0kEFEkWrT7mt9MUlEBV2DTo1QsaanUTp) | tutorial | bib]
+[[paper](https://orange.hosting.lsoft.com/trk/clickp?ref=znwrbbrs9_6-2d8c7_0x33ae25x02051&doi=3543873.3587345) | [code](https://github.com/NaiboWang/EasySpider) | [video](https://youtube.com/playlist?list=PL0kEFEkWrT7mt9MUlEBV2DTo1QsaanUTp) | bib]
 
 <b>[C] [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://dl.acm.org/doi/10.1145/3488560.3498418)</b> <br>
 Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenhan Wang, and Xueqi Cheng. <br>
@@ -88,7 +88,7 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 
 
 <b>[J] Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms</b> <br>
-<b>Wenjie Feng</b>.
+<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Xueqi Cheng.
 <b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
 
@@ -104,12 +104,6 @@ Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
 <b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
 [[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]
 
-
-<!--
-<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
-<i> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/science/article/pii/S0167739X20316794). </i> <b> Journal </b>.
--->
 
 <b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
