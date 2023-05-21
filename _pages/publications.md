@@ -18,13 +18,13 @@ Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
 [paper | slides | code and datasets | bib]
  -->
 
-
+<!---
 <b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
 <b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
 <i> Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. KDD 2023 </i>
 <i> [Under Review] </i> <br>
 [paper | slides | code and datasets | bib]
-
+-->
 
 
 <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
