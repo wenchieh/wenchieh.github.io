@@ -73,11 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider         :  "google-gtag"     #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider         :  "custom"   #"google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     # tracking_id    :  "UA-143331024-1"
-    measurement_id  : "G-XXB0XP2FL4"
-    anonymize_ip    :  # true, false (default)
+    # measurement_id  : XXXXXX
+    # anonymize_ip    :  # true, false (default)
 
 # Site Author
 author:
