@@ -73,15 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider         :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider         :  "google-gtag" #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id    :  "UA-143331024-1"
-
+    # tracking_id    :  "UA-143331024-1"
+    measurement_id  : "G-XXB0XP2FL4"
+    anonumize_ip    :  # true, false (default)
 
 # Site Author
 author:
   name             : "Wenjie Feng"
-  avatar           : "wenchieh.jpg"
+  avatar           : "wenchieh.jpg"  
   bio              : "Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
   location         : "Singapore"
   employer         :
