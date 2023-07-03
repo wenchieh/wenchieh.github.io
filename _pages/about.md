@@ -31,10 +31,11 @@ I received my Bachelor’s Degree in Computer Science and Technology at [Beijing
 
 My research interests include:
 * Machine Learning & Graph learning 
+* Trustworthy & Interpretable AI
 * Large-scale graph mining & Data mining
 * Anomaly detection 
 * Social network analysis
-* Explainable AI
+
 
 
 <br>
@@ -42,15 +43,16 @@ My research interests include:
 
 
 # <span style="color:black">What's New</span>
+* Our paper "Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering" is accepted to **ICML 2023**
 * Our paper "Unified Dense Subgraph Detection: Fast Spectral Theory based Algorithms" is accepted to **IEEE TKDE**.
-* March 2023, Our demo & poster paper "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to **The WebConf 2023**. Welcome to try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also contains detailed instructions for use.
+* March 2023, Our demo & poster paper, "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to **The WebConf 2023**. Welcome to try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also contains detailed instructions for use.
 * Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to **TKDD**.
 * Our paper "Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation" is accepted to **TMLR**.
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to **WSDM 2022**.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to **CIKM 2022**.
-* November 2020 - Now, I join in the IDS NUS as a Research Fellow.
-* September 14 - September 18 2020. I attend the ECML PKDD 2020 virtual conference.
-* August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best student DM paper award** for ECML-PKDD 2020.
+* November 2020 - Now, I join the IDS NUS as a Research Fellow.
+* September 14 - September 18, 2020. I attend the ECML PKDD 2020 virtual conference.
+* August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best Student DM paper award** for ECML-PKDD 2020.
 
 
 <!---
