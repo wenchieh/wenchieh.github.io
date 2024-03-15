@@ -10,14 +10,6 @@ author_profile: true
 <!-- ## Graph Mining & Learning, Web Service -->
 
 
-
-<!-- <b>[C] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
-Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
-<i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. </i> ECML-PKDD 2023
-<i> [Under Review] </i> <br>
-[paper | slides | code and datasets | bib]
- -->
-
 <!---
 <b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
 <b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
@@ -25,6 +17,11 @@ Naibo Wang, <b>Wenjie Feng</b>, See-Kiong Ng.<br>
 <i> [Under Review] </i> <br>
 [paper | slides | code and datasets | bib]
 -->
+
+<b>[C] SemRode: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks </b> <br>
+Brian Formento, <b> Wenjie Feng\#</b>, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng. <br>
+<i> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL), 2024 </i> <br>
+[paper | slides | code and datasets | bib]
 
 
 <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
@@ -44,7 +41,7 @@ Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenh
 [[paper](https://dl.acm.org/doi/10.1145/3488560.3498418) | slides | [video](https://www.youtube.com/watch?v=TmtJw9IaKck) | [code and datasets](https://github.com/BGT-M/MonLAD) | [bib](https://dblp.org/rec/conf/wsdm/SunFLX0HWC22.html?view=bibtex)]
 
 <b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series</b> <br>
-Yuntao Du, Jindong Wang\#, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang. <br>
+Yuntao Du, Jindong Wang, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang. <br>
 <i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> [CIKM 2021](https://www.cikm2021.org/). </b> <br>
 [[paper](https://dl.acm.org/doi/10.1145/3459637.3482315) | [video](https://www.youtube.com/watch?v=WWDmP8iL_3U) | appendix | poster | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn) | [bib](https://dblp.org/rec/journals/corr/abs-2108-04443.html?view=bibtex)]
 
@@ -92,6 +89,11 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 <b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
 [paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
 
+<b>[J] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
+Naibo Wang, <b>Wenjie Feng\#</b>, Yuchen Deng, Moming Duan, Fusheng Liu, See-Kiong Ng.<br>
+[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <be>
+[ [paper](https://openreview.net/pdf?id=ORMlg4g3mG) | code and datasets | bib]
+ 
 
 <b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
