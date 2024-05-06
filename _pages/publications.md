@@ -5,29 +5,76 @@ author_profile: true
 ---
 
 
+# Journal
+
+<b>[J] Interrelated Dense Pattern Detection in Multilayer Networks </b> <br>
+<b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
+<b> IEEE Transactions on Knowledge and Data Engineering (TKDE) </b> <br>
+[paper | [code and datasets](https://github.com/wenchieh/induen) | bib]
+
+<b>[J] Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Xueqi Cheng. <br>
+<b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
+[ [paper](https://ieeexplore.ieee.org/abstract/document/10185107/) | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
+
+<b>[J] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
+Naibo Wang, <b>Wenjie Feng\#</b>, Yuchen Deng, Moming Duan, Fusheng Liu, See-Kiong Ng.<br>
+[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
+[ [paper](https://openreview.net/pdf?id=ORMlg4g3mG) | [code and datasets](https://github.com/NaiboWang/Data-Free-Ensemble-Selection-For-One-Shot-Federated-Learning) | bib]
+ 
+
+<b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng. <br>
+<b> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd). </b> <br>
+[[paper](https://dl.acm.org/doi/10.1145/3577022) | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
+
+
+<b>[J] Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation</b> <br>
+Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi. <br>
+<b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
+[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]
+
+
+<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
+<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng. <br>
+<b> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems). </b> <br>
+[[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) | [code and datasets](https://github.com/wenchieh/eaglemine) | [bib](https://dblp.org/rec/journals/fgcs/FengLFHSC21.html?view=bibtex)]
+
+
+<b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
+Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang. <br>
+<b> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist). </b> <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3360309) | [code and datasets](https://github.com/jindongwang/transferlearning) | [bib](https://dblp.org/rec/journals/tist/WangCFYHY20.html?view=bibtex)]
+
+----
+
+
+
 # Conference
 
 <!-- ## Graph Mining & Learning, Web Service -->
 
+. . (Under Review)
 
-<!---
-<b>[C] Correlated Dense Subgraphs Detection in Multi-Layered Networks</b> <br>
-<b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
-<i> Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. KDD 2023 </i>
-<i> [Under Review] </i> <br>
-[paper | slides | code and datasets | bib]
--->
+<b>[C] Densest Subgraph Fast-searching and Decomposition with Local Optimality (<i>Under submission</i>) </b> <br>
+Yugao Zhu, Shenghua Liu, <b> Wenjie Feng\#</b>,, Xueqi Cheng. <br>
+[ paper | [pre-print](https://arxiv.org/abs/2307.15969) | code and datasets | bib]
+
+
+<b>[C] One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity (<i>Under submission</i>) </b> <br>
+Naibo Wang, Yuchen Deng, <b> Wenjie Feng\#</b>, Shichen Fan, Jianwei Yin, See-Kiong Ng. <br>
+[ paper | [pre-print](https://arxiv.org/abs/2404.12130) | code and datasets | bib]
 
 <b>[C] SemRode: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks </b> <br>
 Brian Formento, <b> Wenjie Feng\#</b>, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng. <br>
 <i> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL), 2024 </i> <br>
-[paper | slides | code and datasets | bib]
+[paper | [Arxiv](https://arxiv.org/pdf/2403.18423) | [code and datasets](https://github.com/Aniloid2/SemRoDeMacroAdversarialTraining) | bib]
 
 
 <b>[C] Towards Better Graph Representation Learning with Parameterized Decomposition \& Filtering </b> <br>
 Mingqi Yang, <b>Wenjie Feng</b>, Yanming Shen, Bryan Hooi.<br>
 <i> Proceedings of the 40th International Conference on Machine Learning. ICML 2023 </i> <br>
-[[paper](http://wenchieh.github.io/publications) | slides | [code and datasets](https://github.com/qslim/PDF) | bib]
+[ [paper](https://proceedings.mlr.press/v202/yang23c/yang23c.pdf) |[code and datasets](https://github.com/qslim/PDF) | bib]
 
 
 <b>[D&P] [EasySpider: A No-Code Visual System for Crawling the Web](https://www2023.thewebconf.org/program/accepted-posters/) </b> <br>
@@ -43,7 +90,7 @@ Xiaobing Sun\*, <b>Wenjie Feng\*</b>, Shenghua Liu, Yuyang Xie, Bryan Hooi, Wenh
 <b>[C] AdaRNN: Adaptive Learning and Forecasting of Time Series</b> <br>
 Yuntao Du, Jindong Wang, <b>Wenjie Feng\#</b>, Sinno Pan, Tao Qin, Renjun Xu, Chongjun Wang. <br>
 <i> The 30th ACM International Conference on Information and Knowledge Management </i>. <b> [CIKM 2021](https://www.cikm2021.org/). </b> <br>
-[[paper](https://dl.acm.org/doi/10.1145/3459637.3482315) | [video](https://www.youtube.com/watch?v=WWDmP8iL_3U) | appendix | poster | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn) | [bib](https://dblp.org/rec/journals/corr/abs-2108-04443.html?view=bibtex)]
+[[paper](https://dl.acm.org/doi/10.1145/3459637.3482315) | [video](https://www.youtube.com/watch?v=WWDmP8iL_3U) | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/deep/adarnn) | [bib](https://dblp.org/rec/journals/corr/abs-2108-04443.html?view=bibtex)]
 
 <b>[C] [SpecGreedy: Unified Dense Subgraph Detection](https://wenchieh.github.io/publication/SPECGREEDY)</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Huawei Shen, and Xueqi Cheng. <br>
@@ -81,44 +128,6 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 [[paper](https://doi.org/10.1109/ICDM.2017.150) | slides | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/BDA) | [bib](https://dblp.org/rec/conf/icdm/WangCHFS17.html?view=bibtex)]
 
 
-# Journal
-
-
-<b>[J] Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Xueqi Cheng.
-<b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). </b> <br>
-[paper | [code and datasets](https://github.com/wenchieh/specgreedy) | bib]
-
-<b>[J] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
-Naibo Wang, <b>Wenjie Feng\#</b>, Yuchen Deng, Moming Duan, Fusheng Liu, See-Kiong Ng.<br>
-[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <be>
-[ [paper](https://openreview.net/pdf?id=ORMlg4g3mG) | code and datasets | bib]
- 
-
-<b>[J] Hierarchical Dense Pattern Detection in Tensors</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Xueqi Cheng.
-<b> [Transactions on Knowledge Discovery (TKDD)](https://dl.acm.org/journal/tkdd). </b> <br>
-[[paper](https://dl.acm.org/doi/10.1145/3577022) | [code and datasets](https://github.com/wenchieh/catchcore) | bib]
-
-
-<b>[J] Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation</b> <br>
-Miao Xiong, Shen Li, <b>Wenjie Feng</b>, Ailin Deng, Jihai Zhang, Bryan Hooi.
-<b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
-[[paper](https://openreview.net/forum?id=p5V8P2J61u) | [code and datasets](https://github.com/MiaoXiong2320/NeighborAgg) | [bib](https://dblp.org/rec/journals/corr/abs-2211-16466.html?view=bibtex)]
-
-
-<b>[J] [EagleMine: Vision-guided Micro-clusters recognition and collective anomaly detection](https://wenchieh.github.io/publication/EAGLEMINE_JOURNAL)</b> <br>
-<b>Wenjie Feng</b>, Shenghua Liu, Christos Faloutsos, Bryan Hooi, Huawei Shen, and Xueqi Cheng.
-<b> [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems). </b> <br>
-[[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20316794) | [code and datasets](https://github.com/wenchieh/eaglemine) | [bib](https://dblp.org/rec/journals/fgcs/FengLFHSC21.html?view=bibtex)]
-
-
-<b>[J] Transfer Learning with Dynamic Distribution Adaptation</b> <br>
-Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
-<b> [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist). </b> <br>
-[[paper](https://dl.acm.org/doi/abs/10.1145/3360309) | [code and datasets](https://github.com/jindongwang/transferlearning) | [bib](https://dblp.org/rec/journals/tist/WangCFYHY20.html?view=bibtex)]
-
-----
 
 ## Technical reports
 
