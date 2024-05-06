@@ -54,8 +54,6 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 
 <!-- ## Graph Mining & Learning, Web Service -->
 
-. . (Under Review)
-
 <b>[C] Densest Subgraph Fast-searching and Decomposition with Local Optimality (<i>Under submission</i>) </b> <br>
 Yugao Zhu, Shenghua Liu, <b> Wenjie Feng\#</b>,, Xueqi Cheng. <br>
 [ paper | [pre-print](https://arxiv.org/abs/2307.15969) | code and datasets | bib]
