@@ -19,7 +19,7 @@ author_profile: true
 
 <b>[J] Data-Free Diversity-Based Ensemble Selection For One-Shot Federated Learning </b> <br>
 Naibo Wang, <b>Wenjie Feng\#</b>, Yuchen Deng, Moming Duan, Fusheng Liu, See-Kiong Ng.<br>
-[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
+<b> [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/). </b> <br>
 [ [paper](https://openreview.net/pdf?id=ORMlg4g3mG) | [code and datasets](https://github.com/NaiboWang/Data-Free-Ensemble-Selection-For-One-Shot-Federated-Learning) | bib]
  
 
