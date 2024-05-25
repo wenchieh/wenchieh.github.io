@@ -10,7 +10,7 @@ author_profile: true
 <b>[J] Interrelated Dense Pattern Detection in Multilayer Networks </b> <br>
 <b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
 <b> IEEE Transactions on Knowledge and Data Engineering (TKDE) </b> <br>
-[paper | [code and datasets](https://github.com/wenchieh/induen) | bib]
+[ [paper](https://www.computer.org/csdl/journal/tk/5555/01/10536619/1X9veWqrBss) | [code and datasets](https://github.com/wenchieh/induen) | bib]
 
 <b>[J] Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms</b> <br>
 <b>Wenjie Feng</b>, Shenghua Liu, Danai Koutra, Xueqi Cheng. <br>
