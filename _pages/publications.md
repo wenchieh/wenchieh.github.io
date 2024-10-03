@@ -55,14 +55,20 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 <!-- ## Graph Mining & Learning, Web Service -->
 
 <b>[C] Densest Subgraph Fast-searching and Decomposition with Local Optimality (<i>Under submission</i>) </b> <br>
-Yugao Zhu, Shenghua Liu, <b> Wenjie Feng\#</b>,, Xueqi Cheng. <br>
+Yugao Zhu, Shenghua Liu, <b> Wenjie Feng\#</b>, Xueqi Cheng. <br>
 [ paper | [pre-print](https://arxiv.org/abs/2307.15969) | code and datasets | bib]
+
+<b>[C] ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition. </b><br>
+Jianqing Xu, Shen Li, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Guodong Mu, <b> Wenjie Feng</b>, Shouhong Ding, Bryan Hooi<br>
+<i> Thirty-eighth Annual Conference on Neural Information Processing Systems. NeurIPS 2024 </i> <br>
+[ paper | [ArXiv](https://arxiv.org/abs/2409.17576) | code and datasets | bib]
 
 
 <b>[C] One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity. </b> <br>
 Naibo Wang, Yuchen Deng, <b> Wenjie Feng\#</b>, Shichen Fan, Jianwei Yin, See-Kiong Ng. <br>
 <i> The 32nd ACM International Conference on Multimedia. ACM Multimedia <span style="color:blue"></span></i>. <b> [ACM MM 2024](https://2024.acmmm.org/). </b> <br>
 [ paper | [ArXiv](https://arxiv.org/abs/2404.12130) | [code and datasets](https://github.com/NaiboWang/FedELMY) | bib]
+
 
 <b>[C] SemRode: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks </b> <br>
 Brian Formento, <b> Wenjie Feng\#</b>, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng. <br>
