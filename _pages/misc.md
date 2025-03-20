@@ -7,10 +7,11 @@ author_profile: true
 
 ## Academic service
 
-* Conference Program Commitee Member: ECML-PKDD, The WebConf, WSDM, KDD, IJCAI
-* Conference Reviewer: KDD 2023, The WebConf 2021-2022, AAAI 2021, ECML-PKDD 2020-2021, ICDM 2020, NeurIPS 2020, ICDM 2019, IJCAI 2023.
-* Journal reviewer: TKDE, TKDD, Big Data, IEEE Access.
-* Editor: Frontiers Reasearch Topic: Advances in Transfer Learning
+<!-- * Conference Program Committee Member: ICML, NeurIPS, The WebConf, KDD, CVPR, ACM MM, IJCAI, AAAI, WSDM, ECML-PKDD, SDM, ICDM. -->
+* Conference Program Committee Member: SIGKDD 2021-2025, The WebConf 2019-2024, ICML 2024-2025, CVPR 2025, ACM MM 2023-2024, 
+                    AAAI 2021-2023, ECML-PKDD 2020-2025, WSDM 2020-2024, ICDM 2020, NeurIPS 2019-2020,2024, ICDM 2019, IJCAI 2022-2023.
+* Journal reviewer: TKDE, TDSC, TKDD, TNNLS, KAIS, Big Data.
+* Editor: Frontiers Research Topic: Advances in Transfer Learning
 
 <!--
 ## Graduate Courses
