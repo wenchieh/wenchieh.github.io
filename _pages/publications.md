@@ -57,6 +57,7 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 
 <b>[C] Interrelated Dense Pattern Detection in Multilayer Networks (Extended Abstract) </b> <br>
 <b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
+<i> IEEE International Conference on Data Engineering. ICDE 2025 </i> <br>
 [ paper | [code](https://github.com/wenchieh/induen) | bib]
 
 <b>[C] Densest Subgraph Fast-searching and Decomposition with Local Optimality (<i>Under submission</i>) </b> <br>
