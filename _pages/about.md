@@ -14,21 +14,21 @@ redirect_from:
 </p> -->
 
 
-* I am a Professor in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. My research focuses on large-scale data mining, trustworthy and secure AI & systems, with an emphasis on machine learning techniques and real-world applications, including graph mining and learning, ML privacy, foundation models, FinTech, and learning systems. My work has been published in top conferences (e.g., ICML, NeurIPS, ICDE, WWW, ACM MM) and journals (e.g., TKDE, TKDD, TOSEM). Additionally, I serve as a program committee member for leading international conferences such as ICML, CVPR, WWW, SIGKDD, NeurIPS, and IJCAI, and as a reviewer for prestigious journals including TKDE, TDSC, TKDD, KAIS, and TNNLS.
+* I am a Professor in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China (USTC). My research focuses on large-scale data mining, trustworthy and secure AI & systems, with an emphasis on machine learning techniques and real-world applications, including graph mining and learning, ML privacy, foundation models, FinTech, and learning systems. My work has been published in top conferences (e.g., ICML, NeurIPS, ICDE, WWW, ACM MM) and journals (e.g., TKDE, TKDD, TOSEM). Additionally, I serve as a program committee member for leading international conferences such as ICML, CVPR, WWW, SIGKDD, NeurIPS, and IJCAI, and as a reviewer for prestigious journals, including TKDE, TDSC, TKDD, KAIS, and TNNLS.
 
 
 <!--
-* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in National University of Singapore working with Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).  
+* I am a Research Fellow in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) in the National University of Singapore working with Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).  
 -->
 
-* I earned my Ph.D. in Computer Science from the [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academic of Sciences, under the supervision of Prof. [Xueqi Cheng](http://www.bigdatalab.ac.cn/~cxq/) and in collaboration with Prof. [Shenghua Liu](https://shenghua-liu.github.io/).
+* I earned my Ph.D. in Computer Science from the [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academy of Sciences, under the supervision of Prof. [Xueqi Cheng](http://www.bigdatalab.ac.cn/cxq/) and in collaboration with Prof. [Shenghua Liu](https://shenghua-liu.github.io/).
 I received my B.Eng in Computer Science and Technology at [Beijing Jiao Tong University](http://www.bjtu.edu.cn/).
 Previously, I was a research fellow at the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/), National University of Singapore, working with Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [See-Kiong NG](https://www.comp.nus.edu.sg/~ngsk/).
 
 * [[Curriculum Vitae](http://wenchieh.github.io/files/pdf/wenchieh_cv.pdf)] and [[Google Scholar](https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en)]
 
 
-<!-- I am on job market this year, please find my CV and research statement using the links above. 
+<!-- I am on the job market this year; please find my CV and research statement using the links above. 
 * My research interests include data mining, large-scale graph mining, anomaly detection, machine learning, and social network analysis.
 -->
 
@@ -74,13 +74,9 @@ I am looking for self-motivated undergraduate interns and master, and Ph.D. stud
 
 
 # <span style="color:black">What's New</span>
-<span style="color:red">
-  
-* Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**!
 
+* <font color=FF0000> Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**, Preprints and code will be available soon! </font>
 * Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**!
-</span>
-
 * Our paper "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition" is accepted to **NeurIPS 2024**
 * Our paper "One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity" is accepted to **ACM MM 2024**
 * Our paper "Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks" is accepted to **NAACL 2024**
@@ -93,8 +89,8 @@ I am looking for self-motivated undergraduate interns and master, and Ph.D. stud
 * Our paper "Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation" is accepted to **TMLR**.
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to **WSDM 2022**.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to **CIKM 2022**.
-* November 2020 - Now, I am joining the IDS NUS as a research fellow.
-* September 14 - September 18, 2020. I attend the ECML PKDD 2020 virtual conference.
+* November 2020 - Now, I am joining IDS NUS as a research fellow.
+* September 14 - September 18, 2020. I attended the ECML PKDD 2020 virtual conference.
 * August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best Student DM paper award** for ECML-PKDD 2020.
 
 * <span style="color:red">Call for papers</span>: 
