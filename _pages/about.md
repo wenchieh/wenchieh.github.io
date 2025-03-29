@@ -53,18 +53,18 @@ My research interests include:
     - Passion, determination, and preservation to conduct high-quality research.
     - Good communication and collaboration skills.
     - Strong coding ability (C/C++ or Python).
-2. Hiring tenure-track faculties and postdocs in DM/ML:
-    - With PhD degree (or graduate soon)
+2. Hiring tenure-track faculty and postdocs in DM/ML:
+    - With a Ph.D degree (or graduate soon)
     - At least three first-author papers on top-tier conferences
 3. Hiring PhD students from USTC and masters:
     - English (CET-6 score 500+, or equal levels)
     - Strong mathematics foundations (calculus, linear algebra, optimization, information theory,  probability and statistics, etc.)
 4. Hiring master students and undergraduate interns:
     - Good foundation in mathematics (calculus, linear algebra, probability and statistics)
-    - Experience in high-level competitions (e.g., ACM-ICPC, KDD-Cup, ) or top-tier publications will be preferred.
+    - Experience in high-level competitions (e.g., ACM-ICPC, KDD-Cup) or top-tier publications will be preferred.
 
 <span style="color:red">
-I am looking for self-motivated undergraduate interns, master, and Ph.D. students with solid mathematical backgrounds and coding skills. Feel free to drop me an email with your CV if interested. I am also open to discussions and collaborations on the topics mentioned above!
+I am looking for self-motivated undergraduate interns and master, and Ph.D. students with solid mathematical backgrounds and coding skills. Feel free to drop me an email with your CV if interested. I am also open to discussions and collaborations on the topics mentioned above!
 </span>
 
 
@@ -74,7 +74,13 @@ I am looking for self-motivated undergraduate interns, master, and Ph.D. student
 
 
 # <span style="color:black">What's New</span>
-* Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**
+<span style="color:red">
+  
+* Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**!
+
+* Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**!
+</span>
+
 * Our paper "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition" is accepted to **NeurIPS 2024**
 * Our paper "One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity" is accepted to **ACM MM 2024**
 * Our paper "Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks" is accepted to **NAACL 2024**
