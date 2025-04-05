@@ -74,13 +74,13 @@ I am looking for self-motivated undergraduate interns and master, and Ph.D. stud
 
 
 # <span style="color:black">What's New</span>
-
+* Our paper "FAVDisco: Modeling and Discovering File Access Vulnerabilities" is accepted to **TOSEM 2025**.
 * <font color=FF0000> Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**, Preprints and code will be available soon! </font>
-* Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**!
-* Our paper "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition" is accepted to **NeurIPS 2024**
-* Our paper "One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity" is accepted to **ACM MM 2024**
-* Our paper "Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks" is accepted to **NAACL 2024**
-* Our paper "Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering" is accepted to **ICML 2023**
+* Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**.
+* Our paper "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition" is accepted to **NeurIPS 2024**.
+* Our paper "One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity" is accepted to **ACM MM 2024**.
+* Our paper "Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks" is accepted to **NAACL 2024**.
+* Our paper "Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering" is accepted to **ICML 2023**.
 * Our paper "Unified Dense Subgraph Detection: Fast Spectral Theory based Algorithms" is accepted to **IEEE TKDE**.
 * March 2023, Our demo & poster paper, "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to **The WebConf 2023**. Welcome to try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also contains detailed instructions for usage.
 * Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to **TKDD**.
