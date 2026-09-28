@@ -59,8 +59,25 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 
 # Conference
 
+<b>[C] TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning. <b>(Spotlight)</b> </b> <br>
+Shunyu Wu, Dan Li, Haozheng Ye, Weibin Feng, Jian Lou, Bo Zhang, <b>Wenjie Feng</b>, Chenjuan Guo, See-Kiong Ng. <br>
+<i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
+[ [paper](https://openreview.net/forum?id=jI3LzITbpM) | code | bib ]
+
+<b>[C] S&P: Towards Scalable and Powerful Graph Learning with Hierarchical Structural Acquisition. </b> <br>
+Mingqi Yang, Zhaoyu Liu, <b>Wenjie Feng</b> <br>
+<i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
+[ [paper](https://openreview.net/forum?id=SlDtKO7Xq7) | code | bib ]
+
+
+<b>[C] AdaPCLA: Curriculum Prior Internalization For Long-Tailed Longitudinal EHR Generation.  </b> <br>
+Shuai Cui, Chen Wenxuan, Wenjie Du, Jian Lou, Dan Li, <b>Wenjie Feng\#</b>; <br>
+<i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
+[ [paper](https://openreview.net/forum?id=jdm8WK08ec) | code | bib ]
+
+
 <b>[C] REmpowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning. </b> <br>
-Lin Li, Jiawei Huang, Qihao Quan, Dan Li, Boxin Li, Xiao Zhang, Erli Meng, <b>Wenjie Feng</b>, Jian Lou, See-Kiong Ng.. <br>
+Lin Li, Jiawei Huang, Qihao Quan, Dan Li, Boxin Li, Xiao Zhang, Erli Meng, <b>Wenjie Feng</b>, Jian Lou, See-Kiong Ng. <br>
 <i> ACM International Conference on Multimedia. ACM MM 2026. </i> <br>
 [ [paper](https://openreview.net/forum?id=4rlzjjSTmg) | code | bib ]
 
