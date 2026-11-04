@@ -190,7 +190,7 @@ Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang Chen, Han Yu, Philip S Yu. <br>
 
 <b>[C] [Balanced Distribution Adaptation for Transfer Learning](https://wenchieh.github.io/publication/BDA).</b> <br>
 Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
-<i>IEEE International Conference on Data Mining <span style="color:blue">(Short)</span> </i>. <b> [ICDM 2017](https://userweb.ucs.louisiana.edu/~sxk6389/index.html). </b> (<span style="color:blue"><b>ICDM 2026 10-Year Highest-Impact Paper Award</b></span>). <br>
+<i>IEEE International Conference on Data Mining <span style="color:blue">(Short)</span> </i>. <b> [ICDM 2017](https://userweb.ucs.louisiana.edu/~sxk6389/index.html). </b> (<span style="color:red"><b>ICDM 2026 10-Year Highest-Impact Paper Award</b></span>). <br>
 [[paper](https://doi.org/10.1109/ICDM.2017.150) | slides | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/BDA) | [bib](https://dblp.org/rec/conf/icdm/WangCHFS17.html?view=bibtex)]
 
 
