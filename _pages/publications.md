@@ -12,8 +12,6 @@ Beibei Zhao, <b>Wenjie Feng</b>, Qingli Guo, Yingli Sun, Fangming Gu, Bolun Zhan
 <b> [Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem). </b> <br>
 [ [paper](https://dl.acm.org/doi/10.1145/3744901) | [code and datasets](https://rb.gy/xpm8th) | [bib](https://dblp.org/rec/journals/tosem/ZhaoFGSGZGL26.html?view=bibtex) ]
 
-
-
 <b>[J] Interrelated Dense Pattern Detection in Multilayer Networks. </b> <br>
 <b>Wenjie Feng</b>, Li Wang, Bryan Hooi, See-Kiong Ng, and Shenghua Liu. <br>
 <b> [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk/5555/01/10536619/1X9veWqrBss). </b> <br>
@@ -59,19 +57,19 @@ Jindong Wang, Yiqiang Chen, <b>Wenjie Feng</b>, Han Yu, Meiyu Huang, Qiang Yang.
 
 # Conference
 
-<b>[C] TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning. <b>(Spotlight)</b> </b> <br>
+<b>[C] TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning. </b> <br>
 Shunyu Wu, Dan Li, Haozheng Ye, Weibin Feng, Jian Lou, Bo Zhang, <b>Wenjie Feng</b>, Chenjuan Guo, See-Kiong Ng. <br>
-<i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
+<i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. <b>(Spotlight)</b> </i> <br>
 [ [paper](https://openreview.net/forum?id=jI3LzITbpM) | code | bib ]
 
 <b>[C] S&P: Towards Scalable and Powerful Graph Learning with Hierarchical Structural Acquisition. </b> <br>
-Mingqi Yang, Zhaoyu Liu, <b>Wenjie Feng</b> <br>
+Mingqi Yang, Zhaoyu Liu, <b>Wenjie Feng. </b> <br>
 <i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
 [ [paper](https://openreview.net/forum?id=SlDtKO7Xq7) | code | bib ]
 
 
 <b>[C] AdaPCLA: Curriculum Prior Internalization For Long-Tailed Longitudinal EHR Generation.  </b> <br>
-Shuai Cui, Chen Wenxuan, Wenjie Du, Jian Lou, Dan Li, <b>Wenjie Feng\#</b>; <br>
+Shuai Cui, Chen Wenxuan, Wenjie Du, Jian Lou, Dan Li, <b>Wenjie Feng\#</b>. <br>
 <i> Proceedings of the 40th Conference on Neural Information Processing Systems, NeurIPS 2026. </i> <br>
 [ [paper](https://openreview.net/forum?id=jdm8WK08ec) | code | bib ]
 
@@ -113,7 +111,7 @@ Yugao Zhu, Shenghua Liu, <b> Wenjie Feng\#</b>, Xueqi Cheng. <br>
 [ paper | [pre-print](https://arxiv.org/abs/2307.15969) | code and datasets | bib]
 
 <b>[C] ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition. </b><br>
-Jianqing Xu, Shen Li, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Guodong Mu, <b> Wenjie Feng</b>, Shouhong Ding, Bryan Hooi<br>
+Jianqing Xu, Shen Li, Jiaying Wu, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Guodong Mu, <b> Wenjie Feng</b>, Shouhong Ding, Bryan Hooi. <br>
 <i> Thirty-eighth Annual Conference on Neural Information Processing Systems. NeurIPS 2024. </i> <br>
 [ [paper](https://neurips.cc/virtual/2024/poster/93105) | [ArXiv](https://arxiv.org/abs/2409.17576) | [code and datasets](https://github.com/hitspring2015/ID3-SFR) | bib]
 
@@ -179,7 +177,7 @@ Jiabao Zhang, Shenghua Liu, Wenjian Yu, <b>Wenjie Feng</b>, Xueqi Cheng. <br>
 
 
 <b>[C] [Visual Domain Adaptation with Manifold Embedded Distribution Alignment](https://wenchieh.github.io/publication/MEDA).</b> <br>
-Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu. <br>
+Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang Chen, Han Yu, Philip S Yu. <br>
 <i> The 26th ACM International Conference on Multimedia. ACM Multimedia <span style="color:blue">(Long Talk)</span></i>. <b> [ACM MM 2018](http://www.acmmm.org/2018/). </b> <br>
 [[paper](https://doi.org/10.1145/3240508.3240512) | slides | [code and datasets](https://github.com/wenchieh/MEDA) | [bib](https://dblp.org/rec/conf/mm/WangFCYHY18.html?view=bibtex)]
 
@@ -192,7 +190,7 @@ Jindong Wang\*, <b>Wenjie Feng\*</b>, Yiqiang, Chen, Han Yu, Philip S Yu. <br>
 
 <b>[C] [Balanced Distribution Adaptation for Transfer Learning](https://wenchieh.github.io/publication/BDA).</b> <br>
 Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
-<i>IEEE International Conference on Data Mining <span style="color:blue">(Short)</span> </i>. <b> [ICDM 2017](https://userweb.ucs.louisiana.edu/~sxk6389/index.html). </b> <br>
+<i>IEEE International Conference on Data Mining <span style="color:blue">(Short)</span> </i>. <b> [ICDM 2017](https://userweb.ucs.louisiana.edu/~sxk6389/index.html). </b> (<span style="color:blue"><b>ICDM 2026 10-Year Highest-Impact Paper Award</b></span>). <br>
 [[paper](https://doi.org/10.1109/ICDM.2017.150) | slides | [code and datasets](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/BDA) | [bib](https://dblp.org/rec/conf/icdm/WangCHFS17.html?view=bibtex)]
 
 
@@ -201,12 +199,12 @@ Jindong Wang, Yiqiang Chen, Shuji Hao, <b>Wenjie Feng</b>, Zhiqi Shen. <br>
 
 <b>Learning Invariant Representations across Domains and Tasks.</b> <br>
 Jindong Wang, <b>Wenjie Feng</b>, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, Tie-Yan Liu. <br>
-<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2103.05114) </b> </i>.
+<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2103.05114)</b> </i>.
 
 
 <b>Learning to Match Distributions for Domain Adaptation.</b> <br>
 Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, <b>Wenjie Feng</b>, Yiqiang Chen, Tie-Yan Liu. <br>
-<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2007.10791) </b> </i>.
+<i> <b> arXiv Pre-print [CoRR](https://arxiv.org/abs/2007.10791)</b> </i>.
 
 
 <!--
