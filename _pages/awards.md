@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /awards.html
 ---
-
+* **ICDM 2026 10-Year Highest-Impact Paper Award**.
+* **China Computer Federation (CCF) Science and Technology Achievement Award** (Second Prize in Natural Sciences).
 * **Best DM Student Paper Award** of ECML-PKDD 2020.
 
 <!--
