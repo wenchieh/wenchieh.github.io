@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WENCHIEH"
 title_separator          : "-"
 name                     : &name "Wenjie Feng"
-description              : &description "Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
+description              : &description "Professor, University of Science and Technology (USTC)"  #"Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
 url                      : https://wenchieh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenchieh/wenchieh.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Wenjie Feng"
   avatar           : "wenchieh.jpg"  
-  bio              : "Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
+  bio              : "Professor, University of Science and Technology (USTC)"  #"Research Fellow, Institute of Data Science (IDS), National University of Singapore (NUS)"
   location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=EV1kntYAAAAJ&hl=en"
