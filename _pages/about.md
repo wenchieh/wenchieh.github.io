@@ -74,25 +74,29 @@ I am looking for self-motivated undergraduate interns and master, and Ph.D. stud
 
 
 # <span style="color:black">What's New</span>
+* <font color=FF0000> Our paper "Balanced Distribution Adaptation for Transfer Learning" has been selected to receive the <b>ICDM 2026 10-Year Highest-Impact Paper Award</b>! </font>
+* Three papers accepted by NeurIPS 2026. Congrats to all authors!
+* One paper accepted by ACM MM 2026.
+* One paper accepted by ICLR 2026. 
 * Our paper "FAVDisco: Modeling and Discovering File Access Vulnerabilities" is accepted to **TOSEM 2025**.
-* <font color=FF0000> Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**, Preprints and code will be available soon! </font>
+* Our paper "Rethinking Machine Unlearning in Image Generation Models" is accepted to **CCS 2025**,
 * Our paper "Interrelated Dense Subgraph Detection in Multilayer Networks" is accepted to **ICDE 2025**.
 * Our paper "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition" is accepted to **NeurIPS 2024**.
 * Our paper "One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity" is accepted to **ACM MM 2024**.
 * Our paper "Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks" is accepted to **NAACL 2024**.
-* Our paper "Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering" is accepted to **ICML 2023**.
-* Our paper "Unified Dense Subgraph Detection: Fast Spectral Theory based Algorithms" is accepted to **IEEE TKDE**.
-* March 2023, Our demo & poster paper, "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to **The WebConf 2023**. Welcome to try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also contains detailed instructions for usage.
-* Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to **TKDD**.
-
 <!---
+* Our paper "Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering" is accepted to **ICML 2023**.
+* Our paper "Unified Dense Subgraph Detection: Fast Spectral Theory-based Algorithms" is accepted to **IEEE TKDE**.
+* March 2023, our demo & poster paper, "EasySpider: Visual Code-Free Web Crawler/Spider" is accepted to **The WebConf 2023**. Try our user-friendly tool [EasySpider](https://github.com/NaiboWang/EasySpider), which also includes detailed usage instructions.
+* Our paper "Hierarchical Dense Pattern Detection in Tensors" is accepted to **TKDD**.
 * Our paper "Birds of a Feather Trust Together: Knowing When to Trust a Classifier via Adaptive Neighborhood Aggregation" is accepted to **TMLR**.
 * October 2021, Our paper "MonLAD: Money Laundering Agents Detection in Transaction Streams" is accepted to **WSDM 2022**.
 * August 2021, Our paper "AdaRNN: Adaptive Learning and Forecasting of Time Series" is accepted to **CIKM 2022**.
 * November 2020 - Now, I am joining IDS NUS as a research fellow.
 * September 14 - September 18, 2020. I attended the ECML PKDD 2020 virtual conference.
-* August 29, 2020, Our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best Student DM paper award** for ECML-PKDD 2020.
-
+-->
+* Aug. 29, 2020, our paper "SpecGreedy: Unified Dense Subgraph Detection" has been selected as the **Best Student DM paper award** for ECML-PKDD 2020.
+<!--
 * <span style="color:red">Call for papers</span>: 
     [Advances in Transfer Learning: Theory, Algorithms, and Applications](https://www.frontiersin.org/research-topics/21133/advances-in-transfer-learning-theory-algorithms-and-applications)
 * August 20, 2020, One paper was accepted to _Future Generation Computer Systems_.
